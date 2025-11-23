@@ -69,6 +69,3 @@ jupyter notebook
 
 - O notebook foi criado para ser exploratório e educativo — ajuste hiperparâmetros conforme o objetivo (análise versus produção).
 
-## Autor
-
-Projeto hospedado no repositório `joycesilvaaa/superheroes-clustering`.
